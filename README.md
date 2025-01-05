@@ -7,16 +7,9 @@ To address this issue, I designed a chatbot for Codebasics. The chatbot streamli
 # Codebasics
 Their website - https://codebasics.io/
 
+
+
 # Instructions
-1 - Go to https://makersuite.google.com/ and generate API key.
-2 - create an env file, inside your env file you must name a variable GOOGLE_API_KEY and initialise with API key
-3 -  Install all the dependencies
-pip install -r requirements.txt
-
-# Instructions2
 1 - Go to https://makersuite.google.com/ and generate API key
-
 2 - Create an env file, inside your env file you must name a variable GOOGLE_API_KEY and initialise with API key
-
-3 - Install all the dependencies
-pip install -r requirements.txt
+3 - Install all the dependencies - pip install -r requirements.txt
