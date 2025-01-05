@@ -13,3 +13,12 @@ Their website - https://codebasics.io/
 3 -  Install all the dependencies
 pip install -r requirements.txt
 
+# Instructions2
+1 - create a virtual environment using the command below
+python -m venv < the name of venv> 
+
+2 - Activate your virtual environment
+source < the name of venv>/bin/activate
+
+3 - Install all the dependencies
+pip install -r requirements.txt
